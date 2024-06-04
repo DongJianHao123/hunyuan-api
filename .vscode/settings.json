@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///e%3A/Project/%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4/maodou/hunyuan-ts/.github/workflows/deploy.yml"
+    }
+}

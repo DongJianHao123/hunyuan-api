@@ -11,7 +11,6 @@ export class ChatService {
             res.json({ code: 400, err: '请输入您的问题' })
             return
         }
-
         const params: ChatProRequest = {
             Messages: [{ Role: 'user', Content: question }],
         };
